@@ -1,0 +1,27 @@
+body {
+    background-image: url(img/bg02.jpg);
+    text-align:center;
+    background-size: cover;
+}
+
+#indexcont {
+    background-color: rgba(39, 129, 122, 0.411);
+    text-align:center;
+    border-radius: 10px;
+}
+form {
+    text-align:center;
+}
+
+#image {
+    width: 25rem;
+    height: 20rem;
+    margin-right: 2rem;
+    margin-top: -3rem;
+}
+
+#titl {
+    color:white;
+    font-family:Amaranth;
+}
+
